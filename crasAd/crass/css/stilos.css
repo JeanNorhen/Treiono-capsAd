@@ -1,0 +1,24 @@
+.cabacalhoProntuario{
+	display: inline-block;
+	text-align: center;
+}
+
+
+.centralizaImagem{
+	display: inline-block;
+	vertical-align: middle;
+}
+.cabacalhoProntuario{
+	display: inline-block;
+	text-align: center;
+}
+
+
+.teste{
+
+	display: inline-block;	
+	width: 100%;
+}
+.centralizado{	
+	float: right;
+}
